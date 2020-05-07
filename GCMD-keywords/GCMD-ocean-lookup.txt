@@ -1,0 +1,101 @@
+0	Atlantic Ocean>North Atlantic Ocean
+1	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+2	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+3	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+4	Asia>Western Asia>Black Sea
+5	Asia>Western Asia>Black Sea
+6	Atlantic Ocean>North Atlantic Ocean>Irish Sea
+7	Atlantic Ocean>North Atlantic Ocean
+8	Atlantic Ocean>North Atlantic Ocean
+9	Atlantic Ocean>North Atlantic Ocean
+10	Atlantic Ocean>North Atlantic Ocean
+11	Atlantic Ocean>North Atlantic Ocean>Baltic Sea
+12	Atlantic Ocean>North Atlantic Ocean
+13	Atlantic Ocean>North Atlantic Ocean>North Sea
+14	Arctic Ocean
+15	Atlantic Ocean>North Atlantic Ocean>Norwegian Sea
+16	Arctic Ocean
+17	Arctic Ocean>Barents Sea
+18	Arctic Ocean
+19	Arctic Ocean
+20	Arctic Ocean
+21	Arctic Ocean>Chukchi Sea
+22	Arctic Ocean
+23	Arctic Ocean>Beaufort Sea
+24	Arctic Ocean
+25	Arctic Ocean
+26	Arctic Ocean
+27	North America>Canada>Hudson Bay
+28	North America>Canada>Hudson Bay
+29	Atlantic Ocean>North Atlantic Ocean>Davis Strait
+30	Atlantic Ocean>North Atlantic Ocean
+31	Atlantic Ocean>North Atlantic Ocean>Gulf Of St Lawrence
+32	Atlantic Ocean>North Atlantic Ocean>Bay Of Fundy
+33	Atlantic Ocean>North Atlantic Ocean>Gulf Of Mexico
+34	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea
+35	Atlantic Ocean>North Atlantic Ocean
+36	Atlantic Ocean>South Atlantic Ocean
+37	Atlantic Ocean>North Atlantic Ocean
+38	Indian Ocean>Red Sea
+39	Indian Ocean>Red Sea
+40	Indian Ocean>Red Sea
+41	Indian Ocean
+42	Indian Ocean
+43	Indian Ocean>Arabian Sea>Persian Gulf
+44	Indian Ocean
+45	Indian Ocean>Arabian Sea
+46	Indian Ocean
+47	Indian Ocean>Bay Of Bengal
+48	Indian Ocean
+49	Indian Ocean
+50	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+51	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+52	Pacific Ocean>Western Pacific Ocean>South China Sea
+53	Pacific Ocean>Western Pacific Ocean>East China Sea
+54	Pacific Ocean>Western Pacific Ocean>Yellow Sea
+55	Indian Ocean
+56	Pacific Ocean>South Pacific Ocean
+57	Pacific Ocean>South Pacific Ocean
+58	Pacific Ocean>South Pacific Ocean
+59	Pacific Ocean>South Pacific Ocean
+60	Pacific Ocean>South Pacific Ocean
+61	Pacific Ocean>North Pacific Ocean>Sea Of Japan
+62	Pacific Ocean>North Pacific Ocean
+63	Pacific Ocean>North Pacific Ocean>Sea Of Japan
+64	Pacific Ocean>North Pacific Ocean>Sea Of Okhotsk
+65	Pacific Ocean>North Pacific Ocean>Bering Sea
+66	Pacific Ocean>North Pacific Ocean>Gulf Of Alaska
+67	Pacific Ocean>North Pacific Ocean
+68	Pacific Ocean>North Pacific Ocean
+69	Atlantic Ocean>South Atlantic Ocean
+70	Indian Ocean
+71	Pacific Ocean>North Pacific Ocean
+72	Atlantic Ocean>North Atlantic Ocean>Baltic Sea
+73	Atlantic Ocean>North Atlantic Ocean>Baltic Sea
+74	Atlantic Ocean>North Atlantic Ocean>Baltic Sea
+75	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+76	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+77	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+78	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+79	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+80	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Adriatic Sea
+81	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+82	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea
+83	Pacific Ocean>South Pacific Ocean
+84	Southern Ocean
+85	Atlantic Ocean>North Atlantic Ocean>Baltic Sea
+86	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+87	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+88	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+89	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+90	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+91	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+92	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+93	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+94	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+95	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+96	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+97	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+98	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+99	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas
+100	Pacific Ocean>Western Pacific Ocean>South China And Eastern Archipelagic Seas

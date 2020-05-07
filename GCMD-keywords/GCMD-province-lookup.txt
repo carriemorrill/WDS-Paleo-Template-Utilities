@@ -1,0 +1,13 @@
+48	North America>Canada>Alberta
+62	North America>Canada>Nunavut
+24	North America>Canada>Quebec
+12	North America>Canada>Nova Scotia
+60	North America>Canada>Yukon Territory
+13	North America>Canada>New Brunswick
+61	North America>Canada>Northwest Territories
+46	North America>Canada>Manitoba
+59	North America>Canada>British Columbia
+11	North America>Canada>Prince Edward Island
+10	North America>Canada>Newfoundland And Labrador
+47	North America>Canada>Saskatchewan
+35	North America>Canada>Ontario

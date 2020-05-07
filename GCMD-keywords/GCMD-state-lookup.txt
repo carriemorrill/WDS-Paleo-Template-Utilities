@@ -1,0 +1,56 @@
+54	North America>United States Of America>West Virginia
+12	North America>United States Of America>Florida
+17	North America>United States Of America>Illinois
+27	North America>United States Of America>Minnesota
+24	North America>United States Of America>Maryland
+44	North America>United States Of America>Rhode Island
+16	North America>United States Of America>Idaho
+33	North America>United States Of America>New Hampshire
+37	North America>United States Of America>North Carolina
+50	North America>United States Of America>Vermont
+09	North America>United States Of America>Connecticut
+10	North America>United States Of America>Delaware
+35	North America>United States Of America>New Mexico
+06	North America>United States Of America>California
+34	North America>United States Of America>New Jersey
+55	North America>United States Of America>Wisconsin
+41	North America>United States Of America>Oregon
+31	North America>United States Of America>Nebraska
+42	North America>United States Of America>Pennsylvania
+53	North America>United States Of America>Washington
+22	North America>United States Of America>Louisiana
+13	North America>United States Of America>Georgia
+01	North America>United States Of America>Alabama
+49	North America>United States Of America>Utah
+39	North America>United States Of America>Ohio
+48	North America>United States Of America>Texas
+08	North America>United States Of America>Colorado
+45	North America>United States Of America>South Carolina
+40	North America>United States Of America>Oklahoma
+47	North America>United States Of America>Tennessee
+56	North America>United States Of America>Wyoming
+15	North America>United States Of America>Hawaii
+38	North America>United States Of America>North Dakota
+21	North America>United States Of America>Kentucky
+78	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Virgin Islands
+69	Pacific Ocean>Western Pacific Ocean>Micronesia>Northern Mariana Islands
+66	Pacific Ocean>Western Pacific Ocean>Micronesia>Guam
+23	North America>United States Of America>Maine
+36	North America>United States Of America>New York
+32	North America>United States Of America>Nevada
+02	North America>United States Of America>Alaska
+60	Pacific Ocean>Central Pacific Ocean>American Samoa
+26	North America>United States Of America>Michigan
+05	North America>United States Of America>Arkansas
+28	North America>United States Of America>Mississippi
+29	North America>United States Of America>Missouri
+30	North America>United States Of America>Montana
+20	North America>United States Of America>Kansas
+18	North America>United States Of America>Indiana
+72	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Puerto Rico
+46	North America>United States Of America>South Dakota
+25	North America>United States Of America>Massachusetts
+51	North America>United States Of America>Virginia
+11	North America>United States Of America>District Of Columbia
+19	North America>United States Of America>Iowa
+04	North America>United States Of America>Arizona

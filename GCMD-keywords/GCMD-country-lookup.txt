@@ -1,0 +1,295 @@
+0	Indian Ocean>Indonesia
+1	Indian Ocean>Malaysia
+2	South America>Chile
+3	South America>Bolivia
+4	South America>Peru
+5	South America>Argentina
+6	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Dhekelia
+7	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Cyprus
+8	Asia>Southcentral Asia>India
+9	Asia>Eastern Asia>China
+10	Asia>Western Asia>Middle East>Israel
+11	Asia>Western Asia>Middle East>Gaza Strip
+12	Asia>Western Asia>Middle East>Palestine
+13	Asia>Western Asia>Middle East>Lebanon
+14	Africa>Eastern Africa>Ethiopia
+15	Africa>Northern Africa>South Sudan
+16	Africa>Eastern Africa>Somalia
+17	Africa>Eastern Africa>Somalia
+18	Africa>Eastern Africa>Kenya
+19	Asia>Southcentral Asia>Pakistan
+20	Africa>Eastern Africa>Malawi
+21	Africa>Eastern Africa>Tanzania
+22	disputed
+23	Africa>Eastern Africa>Somalia
+24	South America>French Guiana
+25	South America>Suriname
+26	South America>Guyana
+27	Asia>Eastern Asia>South Korea
+28	Asia>Eastern Asia>North Korea
+29	Africa>Northern Africa>Morocco
+30	Africa>Western Africa>Western Sahara
+31	North America>Central America>Costa Rica
+32	North America>Central America>Nicaragua
+33	Africa>Central Africa>Congo
+34	Africa>Central Africa>Congo, Democratic Republic
+35	Asia>Southcentral Asia>Bhutan
+36	Europe>Eastern Europe>Ukraine
+37	Europe>Eastern Europe>Belarus
+38	Africa>Southern Africa>Namibia
+39	Africa>Southern Africa>South Africa
+40	Asia>Western Asia>Middle East>Syrian Arab Republic
+41	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Martin
+42	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Maarten
+43	Asia>Western Asia>Middle East>Oman
+44	Asia>Southcentral Asia>Uzbekistan
+45	Asia>Southcentral Asia>Kazakhstan
+46	Asia>Southcentral Asia>Tajikistan
+47	Europe>Northern Europe>Lithuania
+48	South America>Brazil
+49	South America>Uruguay
+50	Asia>Eastern Asia>Mongolia
+51	Europe>Eastern Europe>Russian Federation
+52	Europe>Eastern Europe>Czech Republic
+53	Europe>Western Europe>Germany
+54	Europe>Northern Europe>Estonia
+55	Europe>Northern Europe>Latvia
+56	Europe>Northern Europe>Scandinavia>Norway
+57	Europe>Northern Europe>Scandinavia>Sweden
+58	Europe>Northern Europe>Scandinavia>Finland
+59	Asia>Southeastern Asia>Vietnam
+60	Asia>Southeastern Asia>Cambodia
+61	Europe>Western Europe>Luxembourg
+62	Asia>Western Asia>Middle East>United Arab Emirates
+63	Europe>Western Europe>France
+64	Europe>Western Europe>Belgium
+65	Europe>Western Europe>Belgium
+66	Asia>Western Asia>Georgia
+67	Europe>Southern Europe>Macedonia
+68	Europe>Southern Europe>Albania
+69	Asia>Western Asia>Azerbaijan
+70	Europe>Southern Europe>Serbia>Kosovo
+71	Asia>Western Asia>Turkey
+72	Asia>Western Asia>Georgia
+73	Europe>Southern Europe>Spain
+74	Asia>Southeastern Asia>Lao People's Democratic Republic
+75	Asia>Southcentral Asia>Kyrgyzstan
+76	Asia>Western Asia>Armenia
+77	Europe>Northern Europe>Scandinavia>Denmark
+78	Africa>Northern Africa>Libya
+79	Africa>Northern Africa>Tunisia
+80	Europe>Eastern Europe>Romania
+81	Europe>Eastern Europe>Hungary
+82	Europe>Eastern Europe>Slovakia
+83	Europe>Eastern Europe>Poland
+84	Europe>Northern Europe>British Isles>Ireland
+85	Europe>Northern Europe>British Isles>United Kingdom
+86	Europe>Southern Europe>Greece
+87	Africa>Eastern Africa>Zambia
+88	Africa>Western Africa>Sierra Leone
+89	Africa>Western Africa>Guinea
+90	Africa>Western Africa>Liberia
+91	Africa>Central Africa>Central African Republic
+92	Africa>Northern Africa>Sudan
+93	Africa>Eastern Africa>Djibouti
+94	Africa>Eastern Africa>Eritrea
+95	Europe>Western Europe>Austria
+96	Asia>Western Asia>Middle East>Iraq
+97	Europe>Southern Europe>Italy
+98	Europe>Western Europe>Switzerland
+99	Asia>Southcentral Asia>Iran
+100	Europe>Western Europe>Netherlands
+101	Europe>Western Europe>Liechtenstein
+102	Africa>Western Africa>Cote D'Ivoire
+103	Europe>Southern Europe>Serbia
+104	Africa>Western Africa>Mali
+105	Africa>Western Africa>Senegal
+106	Africa>Western Africa>Nigeria
+107	Africa>Western Africa>Benin
+108	Africa>Central Africa>Angola
+109	Europe>Southern Europe>Croatia
+110	Europe>Southern Europe>Slovenia
+111	Asia>Western Asia>Middle East>Qatar
+112	Asia>Western Asia>Middle East>Saudi Arabia
+113	Africa>Southern Africa>Botswana
+114	Africa>Eastern Africa>Zimbabwe
+115	Europe>Eastern Europe>Bulgaria
+116	Asia>Southeastern Asia>Thailand
+117	Europe>Southern Europe>San Marino
+118	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Haiti
+119	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Dominican Republic
+120	Africa>Central Africa>Chad
+121	Asia>Western Asia>Middle East>Kuwait
+122	Asia>Western Asia>Middle East>Iraq
+123	North America>Central America>El Salvador
+124	North America>Central America>Guatemala
+125	Indian Ocean>Timor-Leste
+126	Indian Ocean>Brunei
+127	Europe>Western Europe>Monaco
+128	Africa>Northern Africa>Algeria
+129	Africa>Eastern Africa>Mozambique
+130	Africa>Southern Africa>Swaziland
+131	Africa>Eastern Africa>Burundi
+132	Africa>Eastern Africa>Rwanda
+133	Asia>Southeastern Asia>Burma
+134	Asia>Southcentral Asia>Bangladesh
+135	Europe>Southern Europe>Andorra
+136	Asia>Southcentral Asia>Afghanistan
+137	Europe>Southern Europe>Serbia
+138	Europe>Southern Europe>Montenegro
+139	Europe>Southern Europe>Bosnia And Herzegovina
+140	Europe>Southern Europe>Bosnia And Herzegovina
+141	Africa>Eastern Africa>Uganda
+142	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Cuba
+143	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Cuba
+144	North America>Central America>Honduras
+145	South America>Ecuador
+146	South America>Colombia
+147	South America>Paraguay
+148	Europe>Western Europe>Portugal
+149	Europe>Southern Europe>Bosnia And Herzegovina
+150	Europe>Eastern Europe>Moldova
+151	Asia>Eastern Asia>North Korea
+152	Asia>Southcentral Asia>Turkmenistan
+153	Asia>Western Asia>Middle East>Jordan
+154	Asia>Southcentral Asia>Nepal
+155	Africa>Southern Africa>Lesotho
+156	Africa>Central Africa>Cameroon
+157	Africa>Central Africa>Gabon
+158	Africa>Western Africa>Niger
+159	Africa>Western Africa>Burkina Faso
+160	Africa>Western Africa>Togo
+161	Africa>Western Africa>Ghana
+162	Africa>Western Africa>Guinea-Bissau
+163	Europe>Southern Europe>Spain>Gibraltar
+164	North America>United States Of America
+165	North America>Canada
+166	North America>Mexico
+167	North America>Central America>Belize
+168	North America>Central America>Panama
+169	South America>Venezuela
+170	Pacific Ocean>South Pacific Ocean>Melanesia>Papua New Guinea
+171	Africa>Northern Africa>Egypt
+172	Asia>Western Asia>Middle East>Yemen
+173	Africa>Western Africa>Mauritania
+174	Africa>Central Africa>Equatorial Guinea
+175	Africa>Western Africa>Gambia
+176	Asia>Eastern Asia>China>Hong Kong
+177	Europe>Southern Europe>Vatican City
+178	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Cyprus
+179	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Cyprus
+180	disputed
+181	Asia>Eastern Asia>South Korea
+182	Asia>Southcentral Asia>Kazakhstan
+183	Europe>Southern Europe>Greece
+184	Europe>Northern Europe>British Isles>United Kingdom
+185	Europe>Northern Europe>British Isles>United Kingdom
+186	Europe>Northern Europe>British Isles>United Kingdom
+187	Europe>Western Europe>Belgium
+188	Antarctica
+189	Australia/New Zealand>Australia
+190	North America>Greenland
+191	Pacific Ocean>South Pacific Ocean>Polynesia>Fiji
+192	Australia/New Zealand>New Zealand
+193	Pacific Ocean>South Pacific Ocean>Melanesia>New Caledonia
+194	Indian Ocean>Madagascar
+195	Pacific Ocean>Western Pacific Ocean>Philippines
+196	Indian Ocean>Sri Lanka
+197	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Curacao
+198	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Aruba
+199	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Bahamas
+200	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Turks And Caicos Islands
+201	Asia>Eastern Asia>Taiwan
+202	Asia>Eastern Asia>Japan
+203	Atlantic Ocean>North Atlantic Ocean>St Pierre And Miquelon
+204	Europe>Northern Europe>Iceland
+205	Pacific Ocean>South Pacific Ocean>Polynesia>Pitcairn Islands
+206	Pacific Ocean>South Pacific Ocean>Polynesia>French Polynesia
+207	Indian Ocean>French Southern Territories
+208	Indian Ocean>Seychelles
+209	Pacific Ocean>Central Pacific Ocean>Kiribati
+210	Pacific Ocean>Western Pacific Ocean>Micronesia>Marshall Islands
+211	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Trinidad And Tobago
+212	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Grenada
+213	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Netherlands Antilles
+214	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Vincent And The Grenadines
+215	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Barbados
+216	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Lucia
+217	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Martinique
+218	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Dominica
+219	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Guadeloupe
+220	Pacific Ocean>Central Pacific Ocean>Johnston Atoll
+221	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Montserrat
+222	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Antigua And Barbuda
+223	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Kitts And Nevis
+224	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Antigua And Barbuda
+225	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Virgin Islands
+226	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>St Barthelemy
+227	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Puerto Rico
+228	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Anguilla
+229	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Virgin Islands
+230	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Jamaica
+231	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Cayman Islands
+232	Atlantic Ocean>North Atlantic Ocean>Bermuda
+233	Southern Ocean>Heard And Mcdonald Islands
+234	Atlantic Ocean>South Atlantic Ocean>St Helena
+235	Indian Ocean>Reunion
+236	Indian Ocean>Mauritius
+237	Indian Ocean>Mayotte
+238	Indian Ocean>Comoros
+239	Indian Ocean>Zanzibar
+240	Atlantic Ocean>South Atlantic Ocean>Sao Tome And Principe
+241	Atlantic Ocean>North Atlantic Ocean>Cape Verde
+242	Atlantic Ocean>North Atlantic Ocean>Madeira
+243	Atlantic Ocean>North Atlantic Ocean>Mediterranean Sea>Malta
+244	Atlantic Ocean>North Atlantic Ocean>Azores
+245	Europe>Northern Europe>British Isles>Channel Islands
+246	Europe>Northern Europe>British Isles>Channel Islands
+247	Atlantic Ocean>North Atlantic Ocean>Irish Sea>Isle Of Man
+248	Europe>Northern Europe>Scandinavia>Aland Islands
+249	Atlantic Ocean>North Atlantic Ocean>Norwegian Sea>Faeroe Islands
+250	Indian Ocean>Cocos Islands
+251	Indian Ocean>British Indian Ocean Territory
+252	Indian Ocean>Singapore
+253	Atlantic Ocean>North Atlantic Ocean>Svalbard And Jan Mayen
+254	Atlantic Ocean>North Atlantic Ocean>Svalbard And Jan Mayen
+255	Pacific Ocean>South Pacific Ocean>Polynesia>Norfolk Island
+256	Pacific Ocean>South Pacific Ocean>Polynesia>Cook Islands
+257	Pacific Ocean>South Pacific Ocean>Polynesia>Tonga
+258	Pacific Ocean>South Pacific Ocean>Polynesia>Wallis And Futuna Islands
+259	Pacific Ocean>South Pacific Ocean>Polynesia>Samoa
+260	Pacific Ocean>South Pacific Ocean>Melanesia>Solomon Islands
+261	Pacific Ocean>South Pacific Ocean>Polynesia>Tuvalu
+262	Pacific Ocean>South Pacific Ocean>Melanesia>Solomon Islands
+263	Indian Ocean>Maldives
+264	Pacific Ocean>Western Pacific Ocean>Micronesia>Nauru
+265	Pacific Ocean>Western Pacific Ocean>Micronesia
+266	Atlantic Ocean>South Atlantic Ocean>South Georgia Island
+267	Atlantic Ocean>South Atlantic Ocean>Bouvet Island
+268	Atlantic Ocean>South Atlantic Ocean>Falkland Islands
+269	Pacific Ocean>South Pacific Ocean>Melanesia>Vanuatu
+270	Pacific Ocean>South Pacific Ocean>Polynesia>Niue
+271	Pacific Ocean>Central Pacific Ocean>American Samoa
+272	Pacific Ocean>Western Pacific Ocean>Micronesia>Palau
+273	Pacific Ocean>Western Pacific Ocean>Micronesia>Guam
+274	Pacific Ocean>Western Pacific Ocean>Micronesia>Northern Mariana Islands
+275	Pacific Ocean>Western Pacific Ocean>South China Sea
+276	Asia>Western Asia>Middle East>Bahrain
+277	Australia/New Zealand>Australia
+278	Indian Ocean>Christmas Island
+279	Pacific Ocean>South Pacific Ocean>Polynesia>Tokelau
+280	Pacific Ocean>Central Pacific Ocean>Jarvis Island
+281	Pacific Ocean>Central Pacific Ocean>Baker Island
+282	Pacific Ocean>Central Pacific Ocean>Howland Island
+283	Pacific Ocean>Western Pacific Ocean>South China Sea>Spratly Islands
+284	Pacific Ocean>Central Pacific Ocean>Wake Island
+285	Pacific Ocean>Central Pacific Ocean>Midway Atoll
+286	Pacific Ocean>Eastern Pacific Ocean
+287	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea>Navassa Island
+288	Asia>Eastern Asia>China>Macau
+289	Australia/New Zealand>Australia
+290	Pacific Ocean>Central Pacific Ocean>Palmyra Atoll
+291	Pacific Ocean>Central Pacific Ocean>Kingman Reef
+292	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea
+293	Atlantic Ocean>North Atlantic Ocean>Caribbean Sea
+294	Pacific Ocean>Western Pacific Ocean>South China Sea
