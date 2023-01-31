@@ -3,7 +3,7 @@
 
 # ### Takes Longitude and Latitude, Finds NASA GCMD Location Keyword
 # #### Files needed:  
-# 1) "lon-lat.txt": two columns [lon, lat] with header  
+# 1) "lat-lon.txt": two columns [lat, lon] with header  
 # 2) "ne_10m_admin_0_map_units" country shapefile from https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/  
 # 3) "tl_2018_us_state" US states shapefile from https://www2.census.gov/geo/tiger/TIGER2018/STATE/  
 # 4) "gpr_000a11a_e" Canadian province shapefile from https://open.canada.ca/data/en/dataset/35ee219c-a3b0-448b-a952-3e195cb40b70  
@@ -21,7 +21,7 @@ import shapely
 from shapely import geometry
 
 # READ IN SITE LONS AND LATS
-sites = pd.read_csv("lon-lat.txt", delim_whitespace=True)
+sites = pd.read_csv("lat-lon.txt", delim_whitespace=True)
 sites.head(5)
 
 # READ IN GCMD LOCATION KEYWORD LOOK-UP TABLES
